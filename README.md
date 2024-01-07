@@ -15,7 +15,8 @@
 	<a href="https://github.com/LordOfTrident/telnexir/pulls">
 		<img alt="Pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/telnexir?style=for-the-badge&color=4f79e4">
 	</a>
-	<br><br>
+	<br><br><br>
+	<img src="./res/logo.png" width="120px">
 	<h1 align="center">Telnexir</h1>
 	<p align="center">🧪 A telnet server in Elixir 🩸</p>
 	<p align="center">
