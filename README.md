@@ -69,7 +69,7 @@ If you find any bugs, please, [create an issue and report them](https://github.c
 
 <div align="center">
 	<a href="https://elixir-lang.org/">
-		<img alt="Nim" src="https://img.shields.io/badge/Elixir-6d2891?style=for-the-badge&logo=elixir&logoColor=white">
+		<img alt="Elixir" src="https://img.shields.io/badge/Elixir-6d2891?style=for-the-badge&logo=elixir&logoColor=white">
 	</a>
 	<p align="center">Made with ❤️ love</p>
 </div>
